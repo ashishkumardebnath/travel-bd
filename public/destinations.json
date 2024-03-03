@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "location": "Rome, Italty",
+    "amount": "5.42k",
+    "timing": "10 Days Trip",
+    "logo": "https://i.ibb.co/KGdk7zX/Navigation.png",
+    "image": "https://i.ibb.co/JdMMBjB/Rectangle-14.png"
+  },
+  {
+    "_id": "2",
+    "location": "London, UK",
+    "amount": "4.2k",
+    "timing": "12 Days Trip",
+    "logo": "https://i.ibb.co/KGdk7zX/Navigation.png",
+    "image": "https://i.ibb.co/d77VTDK/Rectangle-14.jpg"
+  },
+  {
+    "_id": "3",
+    "location": "Full Europe",
+    "amount": "15k",
+    "timing": "28 Days Trip",
+    "logo": "https://i.ibb.co/KGdk7zX/Navigation.png",
+    "image": "https://i.ibb.co/QMcFq3L/Rectangle-14-1.png"
+  }
+]
